@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dominion999
 - 👀 I’m interested in Ai and blockchain
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on project from blockchain and AI
+- 🌱 I’m testing how to create apps via AI
 - 📫 How to reach me? Catch me on Tweeter @Dominion913
 
 <!---
